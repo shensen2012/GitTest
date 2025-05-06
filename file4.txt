@@ -1,2 +1,4 @@
 # this is file4
 add line 1
+
+add line 2 for stage test
